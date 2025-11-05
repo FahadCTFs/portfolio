@@ -1,14 +1,14 @@
 
-![Pasted image 20251104112000.png](images/Pasted image 20251104112000.png)
+![Pasted image 20251104112000.png]images/Pasted image%2020251104112000.png)
 
 In this ctf we are given a log data and when we open it we a large large amounts of strings encoded in base64 and after we decode it we see that its an image and it contains something encoded in hex and when we decode the hex we get the flag
 
 
 
-![Pasted image 20251104112225.png](images/Pasted image 20251104112225.png)
+![Pasted image 20251104112225.png]images/Pasted image%2020251104112225.png)
 
 
-![Pasted image 20251104112138.png](images/Pasted image 20251104112138.png)
+![Pasted image 20251104112138.png]images/Pasted image%2020251104112138.png)
 
 
 ```bash
