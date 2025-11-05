@@ -1,28 +1,28 @@
-![[Pasted image 20251104141414.png]]
+![[images/Pasted image 20251104141414.png]]
 first i started to inspect the ip and there was a apache default webpage running and i inspected it and red the source code for anything intresting and hidden and nothing was present there so i moved on to scan the open ports and its services to gain more overall attack surface
 
-![[Pasted image 20251104141627.png|500]]
+![[images/Pasted image 20251104141627.png|500]]
 we see we have a ssh and ftp and a another webpage running on 62337 and i took a view into it and we had a normal webpage asking for username and password and i started to look for intresting directories for some valuable info
 
-![[Pasted image 20251104152139.png|600]]
+![[images/Pasted image 20251104152139.png|600]]
 
 i found a few intresting directories like plugins,data, and much more but nothing really worked
-![[Pasted image 20251104152420.png|500]]
-![[Pasted image 20251104152556.png|500]]
-![[Pasted image 20251104152110.png|600]]
+![[images/Pasted image 20251104152420.png|500]]
+![[images/Pasted image 20251104152556.png|500]]
+![[images/Pasted image 20251104152110.png|600]]
  then i started to inspect into the ftp which i complelety forgot and i saw this 
 we got the username and password so i logged on with it
-![[Pasted image 20251104152244.png]]
-![[Pasted image 20251104154340.png]]
+![[images/Pasted image 20251104152244.png]]
+![[images/Pasted image 20251104154340.png]]
 i resarched a bit about the cms and i found out there exists a vulnerablity ie code injection within our verison of the cms running but it needs to be authenticated
 but we also got the username and password
 
-![[Pasted image 20251104175756.png|400]]
+![[images/Pasted image 20251104175756.png|400]]
 
 
 after ive logged in we can now run the script which injects a bash rev shell into the live running webpage so when it runs we will get a reverse connection!
 
-![[Pasted image 20251104154450.png|500]]
+![[images/Pasted image 20251104154450.png|500]]
 
 violah we got the connection
 
