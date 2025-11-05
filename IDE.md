@@ -1,4 +1,4 @@
-![Pasted image 20251104141414.png](images/Pasted image%2020251104141414.png)
+images/Pasted image 20251104112000.png
 first i started to inspect the ip and there was a apache default webpage running and i inspected it and red the source code for anything intresting and hidden and nothing was present there so i moved on to scan the open ports and its services to gain more overall attack surface
 
 ![Pasted image 20251104141627.png](images/Pasted image%2020251104141627.png)
