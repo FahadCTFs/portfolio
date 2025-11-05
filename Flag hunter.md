@@ -162,4 +162,4 @@ return is used to go up the lines so intuivetly we think we can go up and get th
 ```
 
 
-![Pasted image 20251104102008.png]images/Pasted image%2020251104102008.png)
+![Pasted image 20251104102008.png](images/Pasted image%2020251104102008.png)
