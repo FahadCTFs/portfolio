@@ -1,30 +1,9 @@
 # 🧠 FahadCTFs
 
-Hi, I’m **Fahad** — a cybersecurity learner exploring the world of **ethical hacking** through **Capture The Flag (CTF)** challenges.
+Hi, I’m **Fahad** — a cybersecurity enthusiast documenting my journey through **CTF challenges** and hands-on problem solving.  
+This repository contains my **CTF writeups**, each reflecting the way I learn, analyze, and approach security concepts in practice.
 
-This repository is where I document my **CTF writeups** — detailed notes, thought processes, and steps from each challenge I solve.  
-Every writeup reflects what I’m learning, how I approach problems, and how my mindset evolves with each new task.
+> “Progress isn’t about knowing everything — it’s about getting a little sharper with every challenge.”
 
----
-
-## 🚧 Work in Progress
-
-I’m actively solving and uploading new CTFs as I grow in the field.  
-Expect regular updates as I take on tougher rooms, deeper exploitation paths, and more creative challenges.
-
-> “Consistency builds skill — this repo is proof of that.”
-
----
-
-## 📊 Current Progress
-
-| Phase | Description | Status |
-|-------|--------------|--------|
-| Beginner Challenges | Building solid fundamentals | ✅ Completed |
-| Intermediate Labs | Expanding attack surface understanding | 🔄 In Progress |
-| Advanced Scenarios | Real-world style exploitation | ⏳ Coming Soon |
-
----
-
-## 📂 Structure
-
+I’m actively working on new labs and writeups to build real, demonstrable experience in ethical hacking and security research.  
+Each post here represents consistent growth, curiosity, and dedication to mastering the craft.
